@@ -4,5 +4,5 @@ A very simple Note App.
 
 This project contains 
 
-Hive (NoSQL) database
+Hive (NoSQL) database and
 Riverpod
